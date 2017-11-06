@@ -1,0 +1,2 @@
+# minix
+study minix
